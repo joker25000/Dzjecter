@@ -51,6 +51,10 @@ Dzjecter
 
 ![pic2](https://i.imgur.com/BAMBTj5.png)
 
+## ★ video tutorial:
+
+https://www.youtube.com/watch?v=fLJrMNiYMfw
+
 ## ★ About:
 
 ● WEBSITE : http://dev-labs.co
