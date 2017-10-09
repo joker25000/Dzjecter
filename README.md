@@ -1,6 +1,6 @@
 ![pic1](https://i.imgur.com/QJ6Usi3.jpg)
 
-## ★ Dzjecter v2.0
+## ★ Dzjecter v2.0 - Server checking Tool 
 
 Author: joker-security | Mohamed Yacine [ dev-labs ]
 
