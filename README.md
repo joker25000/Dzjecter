@@ -53,7 +53,7 @@ Dzjecter
 
 ## ★ video tutorial:
 
-[![Dzjecter v2.0 Demo](https://i.imgur.com/BAMBTj5.png)](https://www.youtube.com/watch?v=4GDhjuxjIEg&t=9s)
+[![Dzjecter v2.0 Demo](https://i.imgur.com/QJ6Usi3.jpg)](https://www.youtube.com/watch?v=4GDhjuxjIEg&t=9s)
 
 ## ★ About:
 
