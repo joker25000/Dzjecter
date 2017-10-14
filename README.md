@@ -53,8 +53,7 @@ Dzjecter
 
 ## ★ video tutorial:
 
-https://www.youtube.com/watch?v=fLJrMNiYMfw
-
+https://www.youtube.com/watch?v=4GDhjuxjIEg&t=9s
 ## ★ About:
 
 ● WEBSITE : http://dev-labs.co
