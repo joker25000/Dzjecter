@@ -38,7 +38,7 @@ Dzjecter
 ● Find Admin Panel
 ● Upload Shell 
 ● Sql Scanner
-● Base64 Encode
+● Base64 Encode/Decode
 ● Port Scanner
 ● Hash Encode/Decode
 ● IP Lookup
