@@ -53,7 +53,7 @@ Dzjecter
 
 ## ★ video tutorial:
 
-https://www.youtube.com/watch?v=4GDhjuxjIEg&t=9s
+[![ Dzjecter V2.0 Server checking Tool  ](https://i.ytimg.com/vi/4GDhjuxjIEg/hqdefault.jpg)](https://www.youtube.com/watch?v=4GDhjuxjIEg&t=9s)
 
 ## ★ About:
 
