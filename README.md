@@ -4,7 +4,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-## ★ Dzjecter v2.0 - Server checking Tool 🌐
+## ★ 🚀 Dzjecter v2.0 - Server checking Tool 🌐
 
 Author: joker-security | Mohamed Yacine [ dev-labs ]
 
