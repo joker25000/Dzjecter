@@ -61,11 +61,9 @@ Dzjecter
 
 ## ★ About:
 
-● WEBSITE : http://dev-labs.co
+● Twitter : https://twitter.com/SecurityJoker
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-● Twitter : https://twitter.com/SecurityJoker
 
 ● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
