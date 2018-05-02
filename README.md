@@ -69,4 +69,4 @@ Dzjecter
 
 ● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
-● Tested On : Windows / Linux
+● Tested On : Windows / Linux / Android Phone (Termux No root)
